@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/Csham31">
-        <img height=85 src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F118%2F895%2Fpng-transparent-hackerrank-logos-and-brands-line-filled-icon.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dhackerrank&tbnid=NSuXXjrEKIOxMM&vet=12ahUKEwiM376e38L9AhUGmdgFHT-CB7MQMygGegUIARDZAQ..i&docid=7m3gcmU7n331WM&w=920&h=920&q=hackerrank%20logo&client=firefox-b-d&ved=2ahUKEwiM376e38L9AhUGmdgFHT-CB7MQMygGegUIARDZAQ">
+        <img height=85 src="" alt="logo.png" >
     </a>
     <br> My solutions to HackerRank problems
 </p>
