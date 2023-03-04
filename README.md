@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/Csham31">
-        <img height=85 src="" alt="logo.png" >
+        <img height=85 src="logo.png" >
     </a>
     <br> My solutions to HackerRank problems
 </p>
